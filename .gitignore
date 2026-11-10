@@ -1,0 +1,12 @@
+node_modules/
+runtime/
+dados/
+*.migrado
+*.tmp
+.DS_Store
+.vercel/
+.env
+.env.*
+
+.vercel
+.env*
