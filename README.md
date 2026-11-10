@@ -6,6 +6,20 @@ Sistema web completo de **CRM, Simulação de Ofertas, Quebra de Objeções e Es
 
 ---
 
+## 📺 Demonstração do Sistema
+
+https://github.com/user-attachments/assets/demo-orion
+
+<p align="center">
+  <video src="https://github.com/AriellPureza61/claro-orion-portfolio/raw/main/docs/demo-orion.mp4" controls="controls" width="100%" style="max-height: 520px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+    Seu navegador não suporta a tag de vídeo. Você pode <a href="docs/demo-orion.mp4">baixar ou assistir o vídeo clicando aqui</a>.
+  </video>
+</p>
+
+> 🎬 **Download direto:** [▶️ `docs/demo-orion.mp4` (Vídeo de Demonstração em Alta Definição)](docs/demo-orion.mp4)
+
+---
+
 ## ✨ Funcionalidades Principais
 
 - **👥 Carteira Inteligente de Clientes (Lista & Kanban):** Gestão de leads com filtros de Fila de Ataque, Clientes Ouro, alerta de negociação esfriando e chip de vencimento de fidelidade.
